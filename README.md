@@ -3,11 +3,22 @@ Some details on the build of an Arduino Universal Remote
 
 It took a fair amount of googling and browsing so I am going to try and consolidate some of this information into one place
 
+following this guide:
+
+http://makezine.com/projects/smart-remote-control/
+
+
 helpful links: 
+
 http://wiki.linino.org/doku.php?id=wiki:gettingstarted
+
 http://www.arduino.cc/en/Tutorial/YunSysupgrade
+
 http://download.linino.org/linino_distro/master/latest/
+
 http://www.ibuyopenwrt.com/index.php/8-yun-compatible/104-reset-to-factory-settings
+
+
 
 Passwords: 
 linino - linion, doghunter
