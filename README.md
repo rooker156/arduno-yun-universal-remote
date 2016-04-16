@@ -27,3 +27,7 @@ arduino - arduino
 Pitfalls:
 opkg update fails with "Remove wrong Signature file"
 - This error seems to happen when Ethernet/Wi-Fi have a problem or are both connected. best option I have found to fix the issue is to do a fresh install of the firmware and reconfigure the yun. Do not connect it to the Ethernet and use only the wifi. (or vice versa) 
+
+commands:
+linup - 
+linup latest - update to latest release
