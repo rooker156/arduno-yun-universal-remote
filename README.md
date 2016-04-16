@@ -14,6 +14,8 @@ http://wiki.linino.org/doku.php?id=wiki:gettingstarted
 
 http://www.arduino.cc/en/Tutorial/YunSysupgrade
 
+http://wiki.linino.org/doku.php?id=wiki:upgradeimage
+
 http://download.linino.org/linino_distro/master/latest/
 
 http://www.ibuyopenwrt.com/index.php/8-yun-compatible/104-reset-to-factory-settings
